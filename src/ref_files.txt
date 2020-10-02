@@ -1,0 +1,7 @@
+https://medium.com/@imranhsayed/webpack-dev-server-b1010d01dba5
+        for webpack dev server
+
+https://medium.com/jeremy-gottfrieds-tech-blog/tutorial-how-to-build-a-webpack-app-with-vanilla-js-or-react-72ca2cc7e14
+        for webpack installation and basic setup
+
+
