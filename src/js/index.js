@@ -1,6 +1,10 @@
 // Global app controller
 
-import searchclass from "./models/Search";
+import Searchclass from "./models/Search";
 
-const search_result = searchclass("pizza");
-searchclass.searchmethod();
+
+
+const search_result = new Searchclass('pizza');
+console.log(search_result);
+search_result.search_method();
+
